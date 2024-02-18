@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+📝 <a href="https://chirpy.cotes.page/posts/write-a-new-post/"> 참고하기 </a>
