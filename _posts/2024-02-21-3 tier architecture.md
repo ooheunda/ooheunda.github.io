@@ -1,7 +1,7 @@
 ---
 title: 3계층 아키텍처 데이터 가공하기
 date: 2024-02-22 07:50:00 +09:00
-categories: [javascript, node.js]
+categories: [javascript, express.js]
 tags: [architecture, 내일배움캠프]
 ---
 

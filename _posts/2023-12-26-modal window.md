@@ -1,7 +1,7 @@
 ---
 title: 모달창 구현하기
 date: 2023-12-26 22:14:00 +09:00
-categories: [javascript, FE]
+categories: [javascript, FE-vanilla]
 tags: [Spartify, 내일배움캠프]
 ---
 
