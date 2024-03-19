@@ -1,8 +1,8 @@
 ---
 title: 배열과 연결 리스트
 # date: 2024-03-18 00:50:00 +09:00
-categories: [javascript, nest.js]
-tags: [자료구조, to-dobu, 내일배움캠프]
+categories: [computer science, data structure]
+tags: [to-dobu, 내일배움캠프]
 ---
 
 > #### 240318 월요일
