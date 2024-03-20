@@ -18,7 +18,7 @@ image:
 
 <hr>
 
-> Request -> Pipe -> Guard -> Controller -> Service -> Repository -> Response
+> Request -> Middleware -> Guard -> Pipe -> Controller -> Service -> Repository -> Response
 
 ### **기본적인 흐름**
 
@@ -149,7 +149,11 @@ export class CatsController {
    9.3 global
 10. Server response
 
+<br>
+
 ## 오늘의 회고
+
+<hr>
 
 팀 과제를 하면서 custom guard를 만들 일이 있어 고심하다 또... 현우 튜터님께서 이 문서를 알려주셨다. _(젠장 또 빛현우튜터님이야!)_ 네스트 공식문서는 진짜 친절한 것 같다. 오늘 틸은 그냥 번역에 불과하긴 하지만 한 번 찬찬히 읽어보면서 개념을 정립하는 데에 많은 도움이 되었다. 인터셉터랑 필터는 잘 안 써봤는데 어서 해봐야...겠지?
 
