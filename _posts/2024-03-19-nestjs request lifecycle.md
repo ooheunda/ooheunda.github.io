@@ -1,7 +1,7 @@
 ---
 title: Nest.js의 요청 흐름과 생명 주기
 categories: [javascript, nest.js]
-tags: [to-dobu, 내일배움캠프]
+tags: [to-dubu, 내일배움캠프]
 
 image:
   path: /assets/img/240319 nestjs cycle.png

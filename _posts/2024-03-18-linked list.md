@@ -2,7 +2,7 @@
 title: 배열과 연결 리스트
 # date: 2024-03-18 00:50:00 +09:00
 categories: [computer science, data structure]
-tags: [to-dobu, 내일배움캠프]
+tags: [to-dubu, 내일배움캠프]
 ---
 
 > #### 240318 월요일
@@ -17,7 +17,7 @@ tags: [to-dobu, 내일배움캠프]
 
 ### ERD
 
-<img src="/assets/img/240318 todobu erd.png" width="500px" alt="240318 todobu ERD">
+<img src="/assets/img/240318 todubu erd.png" width="500px" alt="240318 todubu ERD">
 
 쉽지 않네...  
 Column이랑 Card는 자유로운 순서 변경이 필요한데, 현재 ERD처럼 priority(order) 하나로만 하진 않을 것 같다. 저렇게 두면 각 레코드들을 하나의 배열처럼 관리하는건데 그렇게 되면 삽입 & 삭제가 매우매우매우 비효율적이다.
