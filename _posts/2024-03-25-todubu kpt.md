@@ -14,7 +14,7 @@ tags: [to-dubu, 내일배움캠프]
 
 <hr>
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4vG7i%2FbtsF4zHBdZg%2FAsg52jpj5oM1Gkxe7UIIy0%2Fimg.jpg">
+<img src="/assets/img/240325 tofu.jpeg" width="100%" alt="240325 tofu">
 
 ### Keep
 
