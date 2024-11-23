@@ -20,7 +20,7 @@ title: Dougie's paw # the main title
 tagline: # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  can't change what you've done
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -60,7 +60,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-5FXZ6LELG6 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
