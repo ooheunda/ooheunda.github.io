@@ -223,3 +223,21 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# https://github.com/jekyll/jekyll-compose
+# bundle exec jekyll post "My New Post"
+jekyll_compose:
+  default_front_matter:
+    posts:
+      description:
+      image:
+      category: []
+      tags: []
+
+# https://github.com/jekyll/jekyll-admin
+# http://localhost:4000/admin
+jekyll_admin:
+  hidden_links:
+    - _posts
+    - _tabs
+  homepage: "posts"
