@@ -7,8 +7,11 @@ gem "jekyll-theme-chirpy", "~> 7.3"
 gem "html-proofer", "~> 5.0", group: :test
 
 # additional plugins
-gem "jekyll-compose", group: [:jekyll_plugins]
-gem "jekyll-admin", group: [:jekyll_plugins]
+group :jekyll_plugins do
+  gem "jekyll-compose"
+  gem "jekyll-admin"
+  gem "jekyll-sitemap"
+end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"

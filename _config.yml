@@ -24,6 +24,10 @@ description: # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ooheunda.github.io"
 
+# https://github.com/jekyll/jekyll-sitemap
+plugins:
+  - jekyll-sitemap
+
 github:
   username: ooheunda # change to your GitHub username
 
@@ -181,6 +185,7 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:short_year:month:day-:hour
+      sitemap: true
   - scope:
       path: _drafts
     values:
